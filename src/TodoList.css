@@ -1,0 +1,23 @@
+.main-div{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.img-note{
+    width: 20%;
+    height: 20%;
+ }
+
+ .addClick{
+    cursor: pointer;
+ }
+
+ .remove{
+     background-color: #f0ffff;
+ }
+
+ .show-Item{
+     margin-top: 10px;
+ }
+
